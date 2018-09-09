@@ -1,2 +1,2 @@
 # hello-world
-Learn the ABC of GitHub
+Make and commit changes
